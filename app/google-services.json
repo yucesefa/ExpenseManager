@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94573237626",
+    "firebase_url": "https://moneymanager-5e9ca-default-rtdb.firebaseio.com",
+    "project_id": "moneymanager-5e9ca",
+    "storage_bucket": "moneymanager-5e9ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94573237626:android:c50253a6d2d6643b9b32c3",
+        "android_client_info": {
+          "package_name": "com.myproject.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94573237626-1mo2os4udh1vqhjc92ml1ervnc7kndd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99SDR__c8RvP_wzbpWxqlQRnfFNGTOZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94573237626-1mo2os4udh1vqhjc92ml1ervnc7kndd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
